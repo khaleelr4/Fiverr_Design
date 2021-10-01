@@ -1,2 +1,2 @@
 # Fiverr_Design
-These are my Fiverr related Design Projects
+All my Fiverr Projects Related to Graphics Designing.
