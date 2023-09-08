@@ -1,5 +1,5 @@
-# CodeBlue Wordpress Website Logo
-This is my first wordpress website order
+# DBS Construction Group Wordpress Website Logo
+This is my Second wordpress website order
 
 ![Alt text](PRO1.png?raw=true "DBS Logo 1")
 ![Alt text](pro2.png?raw=true "DBS Logo 2")
